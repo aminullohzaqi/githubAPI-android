@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search">Pencarian</string>
+    <string name="setting">Pengaturan</string>
+    <string name="hint">Cari Pengguna</string>
+    <string name="item_name">Aminulloh Zaqi D</string>
+    <string name="detail_name">Aminulloh Zaqi D</string>
+    <string name="detail_username">aminullohzaqi</string>
+    <string name="detail_repository">8</string>
+    <string name="repository">Repositori</string>
+    <string name="detail_follower">25</string>
+    <string name="follower">Pengikut</string>
+    <string name="detail_following">30</string>
+    <string name="following">Mengikuti</string>
+    <string name="follower_label">Pengikut</string>
+    <string name="following_label">Mengikuti</string>
+    <string name="preference_language">Bahasa</string>
+    <string name="language_setting">Ubah Pengaturan Bahasa</string>
+    <string name="chosen_language">Bahasa Indonesia</string>
+    <string name="share">Bagikan</string>
+    <string name="click">Tekan</string>
+    <string name="search_user">Untuk Mencari User</string>
+    <string name="not_found">Tidak Ditemukan</string>
+</resources>
